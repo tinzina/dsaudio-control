@@ -1,0 +1,1801 @@
+{
+  "name": "Basic",
+  "course": "Spanish A1 - master RC.xlsx",
+  "duration": 68.21308333333333,
+  "fileName": "Basic",
+  "lastUpdated": 44452.5970641667,
+  "lesson": "Basic",
+  "timestampAddress": "Basic!C3",
+  "title": "Basic",
+  "transition": "Slide Right",
+  "type": "Exercise",
+  "version": "1.0.0.3",
+  "bubbles": [
+    {
+      "category": "Q&A",
+      "duration": 23.498166666666666,
+      "endTime": 23.548166666666667,
+      "startTime": 0.05,
+      "type": "Bubble",
+      "transition": "Slide Up",
+      "speech": [
+        {
+          "duration": 8.143749999999999,
+          "endTime": 8.19375,
+          "startTime": 0.05,
+          "id": "Basic!D5",
+          "prosodyRate": 1,
+          "text": "Imagine an American woman sitting next to a Spanish speaking man. She wants to politely get his attention and says: \"excuse me\".",
+          "voice": "en-US-GuyNeural",
+          "wordBoundaries": [
+            {
+              "audioOffset": 500000,
+              "index": 0,
+              "duration": 0.5125,
+              "endTime": 0.5625,
+              "startTime": 0.05,
+              "text": "Imagine",
+              "textOffset": 112
+            },
+            {
+              "audioOffset": 5625000,
+              "index": 1,
+              "duration": 0.09999999999999998,
+              "endTime": 0.6625,
+              "startTime": 0.5625,
+              "text": "an",
+              "textOffset": 120
+            },
+            {
+              "audioOffset": 6625000,
+              "index": 2,
+              "duration": 0.48749999999999993,
+              "endTime": 1.15,
+              "startTime": 0.6625,
+              "text": "American",
+              "textOffset": 123
+            },
+            {
+              "audioOffset": 11500000,
+              "index": 3,
+              "duration": 0.33750000000000013,
+              "endTime": 1.4875,
+              "startTime": 1.15,
+              "text": "woman",
+              "textOffset": 132
+            },
+            {
+              "audioOffset": 14875000,
+              "index": 4,
+              "duration": 0.34999999999999987,
+              "endTime": 1.8375,
+              "startTime": 1.4875,
+              "text": "sitting",
+              "textOffset": 138
+            },
+            {
+              "audioOffset": 18375000,
+              "index": 5,
+              "duration": 0.3125,
+              "endTime": 2.15,
+              "startTime": 1.8375,
+              "text": "next",
+              "textOffset": 146
+            },
+            {
+              "audioOffset": 21500000,
+              "index": 6,
+              "duration": 0.11250000000000027,
+              "endTime": 2.2625,
+              "startTime": 2.15,
+              "text": "to",
+              "textOffset": 151
+            },
+            {
+              "audioOffset": 22625000,
+              "index": 7,
+              "duration": 0.0625,
+              "endTime": 2.325,
+              "startTime": 2.2625,
+              "text": "a",
+              "textOffset": 154
+            },
+            {
+              "audioOffset": 23250000,
+              "index": 8,
+              "duration": 0.5124999999999997,
+              "endTime": 2.8375,
+              "startTime": 2.325,
+              "text": "Spanish",
+              "textOffset": 156
+            },
+            {
+              "audioOffset": 28375000,
+              "index": 9,
+              "duration": 0.4750000000000001,
+              "endTime": 3.3125,
+              "startTime": 2.8375,
+              "text": "speaking",
+              "textOffset": 164
+            },
+            {
+              "audioOffset": 33125000,
+              "index": 10,
+              "duration": 1.1875,
+              "endTime": 4.5,
+              "startTime": 3.3125,
+              "text": "man",
+              "textOffset": 173
+            },
+            {
+              "audioOffset": 45000000,
+              "index": 11,
+              "duration": 0.22499999999999964,
+              "endTime": 4.725,
+              "startTime": 4.5,
+              "text": "She",
+              "textOffset": 178
+            },
+            {
+              "audioOffset": 47250000,
+              "index": 12,
+              "duration": 0.27500000000000036,
+              "endTime": 5,
+              "startTime": 4.725,
+              "text": "wants",
+              "textOffset": 182
+            },
+            {
+              "audioOffset": 50000000,
+              "index": 13,
+              "duration": 0.13750000000000018,
+              "endTime": 5.1375,
+              "startTime": 5,
+              "text": "to",
+              "textOffset": 188
+            },
+            {
+              "audioOffset": 51375000,
+              "index": 14,
+              "duration": 0.4874999999999998,
+              "endTime": 5.625,
+              "startTime": 5.1375,
+              "text": "politely",
+              "textOffset": 191
+            },
+            {
+              "audioOffset": 56250000,
+              "index": 15,
+              "duration": 0.16249999999999964,
+              "endTime": 5.7875,
+              "startTime": 5.625,
+              "text": "get",
+              "textOffset": 200
+            },
+            {
+              "audioOffset": 57875000,
+              "index": 16,
+              "duration": 0.15000000000000036,
+              "endTime": 5.9375,
+              "startTime": 5.7875,
+              "text": "his",
+              "textOffset": 204
+            },
+            {
+              "audioOffset": 59375000,
+              "index": 17,
+              "duration": 0.5125000000000002,
+              "endTime": 6.45,
+              "startTime": 5.9375,
+              "text": "attention",
+              "textOffset": 208
+            },
+            {
+              "audioOffset": 64500000,
+              "index": 18,
+              "duration": 0.125,
+              "endTime": 6.575,
+              "startTime": 6.45,
+              "text": "and",
+              "textOffset": 218
+            },
+            {
+              "audioOffset": 65750000,
+              "index": 19,
+              "duration": 0.6749999999999998,
+              "endTime": 7.25,
+              "startTime": 6.575,
+              "text": "says",
+              "textOffset": 222
+            },
+            {
+              "audioOffset": 72500000,
+              "index": 20,
+              "duration": 0.46250000000000036,
+              "endTime": 7.7125,
+              "startTime": 7.25,
+              "text": "excuse",
+              "textOffset": 229
+            },
+            {
+              "audioOffset": 77125000,
+              "index": 21,
+              "duration": 0.4812499999999993,
+              "endTime": 8.19375,
+              "startTime": 7.7125,
+              "text": "me",
+              "textOffset": 236
+            }
+          ],
+          "valid": true
+        },
+        {
+          "duration": 1.0026666666666664,
+          "endTime": 9.258916666666666,
+          "startTime": 8.25625,
+          "id": "Basic!D6",
+          "prosodyRate": 0.8,
+          "text": "disculpe",
+          "voice": "es-MX-DaliaNeural",
+          "wordBoundaries": [
+            {
+              "audioOffset": 625000,
+              "index": 0,
+              "duration": 1.0026666666666664,
+              "endTime": 9.258916666666666,
+              "startTime": 8.25625,
+              "text": "disculpe",
+              "textOffset": 134
+            }
+          ],
+          "valid": true
+        },
+        {
+          "duration": 6.3916249999999994,
+          "endTime": 15.700541666666666,
+          "startTime": 9.308916666666667,
+          "id": "Basic!E5",
+          "prosodyRate": 1,
+          "text": "the spanish speaker is going to say the word, part by part. please repeat each part aloud after him.",
+          "voice": "en-US-GuyNeural",
+          "wordBoundaries": [
+            {
+              "audioOffset": 500000,
+              "index": 0,
+              "duration": 0.11249999999999893,
+              "endTime": 9.421416666666666,
+              "startTime": 9.308916666666667,
+              "text": "the",
+              "textOffset": 112
+            },
+            {
+              "audioOffset": 1625000,
+              "index": 1,
+              "duration": 0.46250000000000036,
+              "endTime": 9.883916666666666,
+              "startTime": 9.421416666666666,
+              "text": "spanish",
+              "textOffset": 116
+            },
+            {
+              "audioOffset": 6250000,
+              "index": 2,
+              "duration": 0.4250000000000007,
+              "endTime": 10.308916666666667,
+              "startTime": 9.883916666666666,
+              "text": "speaker",
+              "textOffset": 124
+            },
+            {
+              "audioOffset": 10500000,
+              "index": 3,
+              "duration": 0.1374999999999993,
+              "endTime": 10.446416666666666,
+              "startTime": 10.308916666666667,
+              "text": "is",
+              "textOffset": 132
+            },
+            {
+              "audioOffset": 11875000,
+              "index": 4,
+              "duration": 0.21250000000000036,
+              "endTime": 10.658916666666666,
+              "startTime": 10.446416666666666,
+              "text": "going",
+              "textOffset": 135
+            },
+            {
+              "audioOffset": 14000000,
+              "index": 5,
+              "duration": 0.125,
+              "endTime": 10.783916666666666,
+              "startTime": 10.658916666666666,
+              "text": "to",
+              "textOffset": 141
+            },
+            {
+              "audioOffset": 15250000,
+              "index": 6,
+              "duration": 0.1875,
+              "endTime": 10.971416666666666,
+              "startTime": 10.783916666666666,
+              "text": "say",
+              "textOffset": 144
+            },
+            {
+              "audioOffset": 17125000,
+              "index": 7,
+              "duration": 0.125,
+              "endTime": 11.096416666666666,
+              "startTime": 10.971416666666666,
+              "text": "the",
+              "textOffset": 148
+            },
+            {
+              "audioOffset": 18375000,
+              "index": 8,
+              "duration": 0.5249999999999986,
+              "endTime": 11.621416666666665,
+              "startTime": 11.096416666666666,
+              "text": "word",
+              "textOffset": 152
+            },
+            {
+              "audioOffset": 23625000,
+              "index": 9,
+              "duration": 0.2875000000000014,
+              "endTime": 11.908916666666666,
+              "startTime": 11.621416666666665,
+              "text": "part",
+              "textOffset": 158
+            },
+            {
+              "audioOffset": 26500000,
+              "index": 10,
+              "duration": 0.21249999999999858,
+              "endTime": 12.121416666666665,
+              "startTime": 11.908916666666666,
+              "text": "by",
+              "textOffset": 163
+            },
+            {
+              "audioOffset": 28625000,
+              "index": 11,
+              "duration": 1.2875000000000014,
+              "endTime": 13.408916666666666,
+              "startTime": 12.121416666666665,
+              "text": "part",
+              "textOffset": 166
+            },
+            {
+              "audioOffset": 41500000,
+              "index": 12,
+              "duration": 0.3125,
+              "endTime": 13.721416666666666,
+              "startTime": 13.408916666666666,
+              "text": "please",
+              "textOffset": 172
+            },
+            {
+              "audioOffset": 44625000,
+              "index": 13,
+              "duration": 0.4624999999999986,
+              "endTime": 14.183916666666665,
+              "startTime": 13.721416666666666,
+              "text": "repeat",
+              "textOffset": 179
+            },
+            {
+              "audioOffset": 49250000,
+              "index": 14,
+              "duration": 0.2375000000000007,
+              "endTime": 14.421416666666666,
+              "startTime": 14.183916666666665,
+              "text": "each",
+              "textOffset": 186
+            },
+            {
+              "audioOffset": 51625000,
+              "index": 15,
+              "duration": 0.25,
+              "endTime": 14.671416666666666,
+              "startTime": 14.421416666666666,
+              "text": "part",
+              "textOffset": 191
+            },
+            {
+              "audioOffset": 54125000,
+              "index": 16,
+              "duration": 0.33750000000000036,
+              "endTime": 15.008916666666666,
+              "startTime": 14.671416666666666,
+              "text": "aloud",
+              "textOffset": 196
+            },
+            {
+              "audioOffset": 57500000,
+              "index": 17,
+              "duration": 0.26250000000000107,
+              "endTime": 15.271416666666667,
+              "startTime": 15.008916666666666,
+              "text": "after",
+              "textOffset": 202
+            },
+            {
+              "audioOffset": 60125000,
+              "index": 18,
+              "duration": 0.4291249999999991,
+              "endTime": 15.700541666666666,
+              "startTime": 15.271416666666667,
+              "text": "him",
+              "textOffset": 208
+            }
+          ],
+          "valid": true
+        },
+        {
+          "duration": 1.0026666666666664,
+          "endTime": 16.765708333333333,
+          "startTime": 15.763041666666666,
+          "id": "Basic!E6",
+          "prosodyRate": 0.8,
+          "text": "disculpe",
+          "voice": "es-MX-DaliaNeural",
+          "wordBoundaries": [
+            {
+              "audioOffset": 625000,
+              "index": 0,
+              "duration": 1.0026666666666664,
+              "endTime": 16.765708333333333,
+              "startTime": 15.763041666666666,
+              "text": "disculpe",
+              "textOffset": 134
+            }
+          ],
+          "valid": true
+        },
+        {
+          "duration": 2.5989166666666677,
+          "endTime": 19.414625,
+          "startTime": 16.815708333333333,
+          "id": "Basic!F5",
+          "prosodyRate": 1,
+          "text": "how do you say in Spanish: excuse me",
+          "voice": "en-US-GuyNeural",
+          "wordBoundaries": [
+            {
+              "audioOffset": 500000,
+              "index": 0,
+              "duration": 0.21249999999999858,
+              "endTime": 17.028208333333332,
+              "startTime": 16.815708333333333,
+              "text": "how",
+              "textOffset": 112
+            },
+            {
+              "audioOffset": 2625000,
+              "index": 1,
+              "duration": 0.07499999999999929,
+              "endTime": 17.10320833333333,
+              "startTime": 17.028208333333332,
+              "text": "do",
+              "textOffset": 116
+            },
+            {
+              "audioOffset": 3375000,
+              "index": 2,
+              "duration": 0.16250000000000142,
+              "endTime": 17.265708333333333,
+              "startTime": 17.10320833333333,
+              "text": "you",
+              "textOffset": 119
+            },
+            {
+              "audioOffset": 5000000,
+              "index": 3,
+              "duration": 0.21249999999999858,
+              "endTime": 17.47820833333333,
+              "startTime": 17.265708333333333,
+              "text": "say",
+              "textOffset": 123
+            },
+            {
+              "audioOffset": 7125000,
+              "index": 4,
+              "duration": 0.10000000000000142,
+              "endTime": 17.578208333333333,
+              "startTime": 17.47820833333333,
+              "text": "in",
+              "textOffset": 127
+            },
+            {
+              "audioOffset": 8125000,
+              "index": 5,
+              "duration": 0.8249999999999993,
+              "endTime": 18.403208333333332,
+              "startTime": 17.578208333333333,
+              "text": "Spanish",
+              "textOffset": 130
+            },
+            {
+              "audioOffset": 16375000,
+              "index": 6,
+              "duration": 0.4875000000000007,
+              "endTime": 18.890708333333333,
+              "startTime": 18.403208333333332,
+              "text": "excuse",
+              "textOffset": 139
+            },
+            {
+              "audioOffset": 21250000,
+              "index": 7,
+              "duration": 0.5239166666666684,
+              "endTime": 19.414625,
+              "startTime": 18.890708333333333,
+              "text": "me",
+              "textOffset": 146
+            }
+          ],
+          "valid": true
+        },
+        {
+          "duration": 1.0026666666666664,
+          "endTime": 20.479791666666667,
+          "startTime": 19.477125,
+          "id": "Basic!F6",
+          "prosodyRate": 0.8,
+          "text": "disculpe",
+          "voice": "es-MX-DaliaNeural",
+          "wordBoundaries": [
+            {
+              "audioOffset": 625000,
+              "index": 0,
+              "duration": 1.0026666666666664,
+              "endTime": 20.479791666666667,
+              "startTime": 19.477125,
+              "text": "disculpe",
+              "textOffset": 134
+            }
+          ],
+          "valid": true
+        },
+        {
+          "duration": 1.9532083333333325,
+          "endTime": 22.483,
+          "startTime": 20.529791666666668,
+          "id": "Basic!G5",
+          "prosodyRate": 1,
+          "text": "say again: excuse me",
+          "voice": "en-US-GuyNeural",
+          "wordBoundaries": [
+            {
+              "audioOffset": 500000,
+              "index": 0,
+              "duration": 0.3125,
+              "endTime": 20.842291666666668,
+              "startTime": 20.529791666666668,
+              "text": "say",
+              "textOffset": 112
+            },
+            {
+              "audioOffset": 3625000,
+              "index": 1,
+              "duration": 0.625,
+              "endTime": 21.467291666666668,
+              "startTime": 20.842291666666668,
+              "text": "again",
+              "textOffset": 116
+            },
+            {
+              "audioOffset": 9875000,
+              "index": 2,
+              "duration": 0.5124999999999993,
+              "endTime": 21.979791666666667,
+              "startTime": 21.467291666666668,
+              "text": "excuse",
+              "textOffset": 123
+            },
+            {
+              "audioOffset": 15000000,
+              "index": 3,
+              "duration": 0.5032083333333333,
+              "endTime": 22.483,
+              "startTime": 21.979791666666667,
+              "text": "me",
+              "textOffset": 130
+            }
+          ],
+          "valid": true
+        },
+        {
+          "duration": 1.0026666666666664,
+          "endTime": 23.548166666666667,
+          "startTime": 22.5455,
+          "id": "Basic!G6",
+          "prosodyRate": 0.8,
+          "text": "disculpe",
+          "voice": "es-MX-DaliaNeural",
+          "wordBoundaries": [
+            {
+              "audioOffset": 625000,
+              "index": 0,
+              "duration": 1.0026666666666664,
+              "endTime": 23.548166666666667,
+              "startTime": 22.5455,
+              "text": "disculpe",
+              "textOffset": 134
+            }
+          ],
+          "valid": true
+        }
+      ],
+      "Native": "disculpe",
+      "Foreign": {
+        "comments": "disculpe",
+        "text": ""
+      }
+    },
+    {
+      "category": "Q&A",
+      "duration": 18.337708333333335,
+      "endTime": 41.935875,
+      "startTime": 23.598166666666668,
+      "type": "Bubble",
+      "transition": "Slide Up",
+      "speech": [
+        {
+          "duration": 3.439708333333332,
+          "endTime": 27.037875,
+          "startTime": 23.598166666666668,
+          "id": "Basic!D7",
+          "prosodyRate": 1,
+          "text": "Now, here is miss . Listen and repeat",
+          "voice": "en-US-GuyNeural",
+          "wordBoundaries": [
+            {
+              "audioOffset": 500000,
+              "index": 0,
+              "duration": 0.4875000000000007,
+              "endTime": 24.08566666666667,
+              "startTime": 23.598166666666668,
+              "text": "Now",
+              "textOffset": 112
+            },
+            {
+              "audioOffset": 5375000,
+              "index": 1,
+              "duration": 0.22499999999999787,
+              "endTime": 24.310666666666666,
+              "startTime": 24.08566666666667,
+              "text": "here",
+              "textOffset": 117
+            },
+            {
+              "audioOffset": 7625000,
+              "index": 2,
+              "duration": 0.15000000000000213,
+              "endTime": 24.46066666666667,
+              "startTime": 24.310666666666666,
+              "text": "is",
+              "textOffset": 122
+            },
+            {
+              "audioOffset": 9125000,
+              "index": 3,
+              "duration": 1.2874999999999979,
+              "endTime": 25.748166666666666,
+              "startTime": 24.46066666666667,
+              "text": "miss",
+              "textOffset": 125
+            },
+            {
+              "audioOffset": 22000000,
+              "index": 4,
+              "duration": 0.4250000000000007,
+              "endTime": 26.173166666666667,
+              "startTime": 25.748166666666666,
+              "text": "Listen",
+              "textOffset": 132
+            },
+            {
+              "audioOffset": 26250000,
+              "index": 5,
+              "duration": 0.10000000000000142,
+              "endTime": 26.27316666666667,
+              "startTime": 26.173166666666667,
+              "text": "and",
+              "textOffset": 139
+            },
+            {
+              "audioOffset": 27250000,
+              "index": 6,
+              "duration": 0.7647083333333313,
+              "endTime": 27.037875,
+              "startTime": 26.27316666666667,
+              "text": "repeat",
+              "textOffset": 143
+            }
+          ],
+          "valid": true
+        },
+        {
+          "duration": 1.4206666666666656,
+          "endTime": 28.508541666666666,
+          "startTime": 27.087875,
+          "id": "Basic!E7",
+          "prosodyRate": 1,
+          "text": "Hamburger syllables",
+          "voice": "en-US-GuyNeural",
+          "wordBoundaries": [
+            {
+              "audioOffset": 500000,
+              "index": 0,
+              "duration": 0.5749999999999993,
+              "endTime": 27.662875,
+              "startTime": 27.087875,
+              "text": "Hamburger",
+              "textOffset": 112
+            },
+            {
+              "audioOffset": 6250000,
+              "index": 1,
+              "duration": 0.8456666666666663,
+              "endTime": 28.508541666666666,
+              "startTime": 27.662875,
+              "text": "syllables",
+              "textOffset": 122
+            }
+          ],
+          "valid": true
+        },
+        {
+          "duration": 8.455375,
+          "endTime": 37.01391666666667,
+          "startTime": 28.558541666666667,
+          "id": "Basic!E8",
+          "prosodyRate": 1,
+          "text": "am buɾ ambuɾ ɣe ambuɾɣe sa ambuɾɣesa",
+          "voice": "es-MX-DaliaNeural",
+          "wordBoundaries": [
+            {
+              "audioOffset": 500000,
+              "index": 0,
+              "duration": 1.3000000000000007,
+              "endTime": 29.858541666666667,
+              "startTime": 28.558541666666667,
+              "text": "am",
+              "textOffset": 146
+            },
+            {
+              "audioOffset": 13500000,
+              "index": 1,
+              "duration": 1.2749999999999986,
+              "endTime": 31.133541666666666,
+              "startTime": 29.858541666666667,
+              "text": "buɾ",
+              "textOffset": 214
+            },
+            {
+              "audioOffset": 26250000,
+              "index": 2,
+              "duration": 1.3624999999999972,
+              "endTime": 32.49604166666666,
+              "startTime": 31.133541666666666,
+              "text": "ambuɾ",
+              "textOffset": 285
+            },
+            {
+              "audioOffset": 39875000,
+              "index": 3,
+              "duration": 1.1625000000000014,
+              "endTime": 33.658541666666665,
+              "startTime": 32.49604166666666,
+              "text": "ɣe",
+              "textOffset": 355
+            },
+            {
+              "audioOffset": 51500000,
+              "index": 4,
+              "duration": 1.4500000000000028,
+              "endTime": 35.10854166666667,
+              "startTime": 33.658541666666665,
+              "text": "ambuɾɣe",
+              "textOffset": 427
+            },
+            {
+              "audioOffset": 66000000,
+              "index": 5,
+              "duration": 1.2624999999999957,
+              "endTime": 36.37104166666666,
+              "startTime": 35.10854166666667,
+              "text": "sa",
+              "textOffset": 499
+            },
+            {
+              "audioOffset": 78625000,
+              "index": 6,
+              "duration": 0.6428750000000036,
+              "endTime": 37.01391666666667,
+              "startTime": 36.37104166666666,
+              "text": "ambuɾɣesa",
+              "textOffset": 573
+            }
+          ],
+          "breakAfter": 1000,
+          "syllables": {
+            "word": {
+              "foreign": "hamburguesa",
+              "native": "hamburger",
+              "ipa": "am buɾ ɣe sa",
+              "abc": "ham bur gue sa",
+              "abcData": [
+                {
+                  "start": 0,
+                  "syllable": "ham"
+                },
+                {
+                  "start": 3,
+                  "syllable": "bur"
+                },
+                {
+                  "start": 6,
+                  "syllable": "gue"
+                },
+                {
+                  "start": 9,
+                  "syllable": "sa"
+                }
+              ],
+              "ipaData": [
+                {
+                  "start": 0,
+                  "syllable": "am"
+                },
+                {
+                  "start": 2,
+                  "syllable": "buɾ"
+                },
+                {
+                  "start": 5,
+                  "syllable": "ɣe"
+                },
+                {
+                  "start": 7,
+                  "syllable": "sa"
+                }
+              ]
+            },
+            "list": [
+              "1",
+              "2",
+              "1-2",
+              "3",
+              "1-3",
+              "4",
+              "1-4"
+            ],
+            "abcList": [
+              "ham",
+              "bur",
+              "gue",
+              "sa"
+            ],
+            "ipaList": [
+              "am",
+              "buɾ",
+              "ɣe",
+              "sa"
+            ],
+            "abc": [
+              "ham",
+              "bur",
+              "hambur",
+              "gue",
+              "hamburgue",
+              "sa",
+              "hamburguesa"
+            ],
+            "ipa": [
+              "am",
+              "buɾ",
+              "ambuɾ",
+              "ɣe",
+              "ambuɾɣe",
+              "sa",
+              "ambuɾɣesa"
+            ]
+          },
+          "valid": true
+        },
+        {
+          "duration": 2.889499999999998,
+          "endTime": 40.872166666666665,
+          "startTime": 37.98266666666667,
+          "id": "Basic!F7",
+          "prosodyRate": 1,
+          "text": "be careful with the r sound that is different than in English",
+          "voice": "en-US-GuyNeural",
+          "wordBoundaries": [
+            {
+              "audioOffset": 500000,
+              "index": 0,
+              "duration": 0.22500000000000142,
+              "endTime": 38.20766666666667,
+              "startTime": 37.98266666666667,
+              "text": "be",
+              "textOffset": 112
+            },
+            {
+              "audioOffset": 2750000,
+              "index": 1,
+              "duration": 0.38750000000000284,
+              "endTime": 38.59516666666667,
+              "startTime": 38.20766666666667,
+              "text": "careful",
+              "textOffset": 115
+            },
+            {
+              "audioOffset": 6625000,
+              "index": 2,
+              "duration": 0.14999999999999858,
+              "endTime": 38.74516666666667,
+              "startTime": 38.59516666666667,
+              "text": "with",
+              "textOffset": 123
+            },
+            {
+              "audioOffset": 8125000,
+              "index": 3,
+              "duration": 0.125,
+              "endTime": 38.87016666666667,
+              "startTime": 38.74516666666667,
+              "text": "the",
+              "textOffset": 128
+            },
+            {
+              "audioOffset": 9375000,
+              "index": 4,
+              "duration": 0.13750000000000284,
+              "endTime": 39.00766666666667,
+              "startTime": 38.87016666666667,
+              "text": "r",
+              "textOffset": 132
+            },
+            {
+              "audioOffset": 10750000,
+              "index": 5,
+              "duration": 0.2749999999999986,
+              "endTime": 39.28266666666667,
+              "startTime": 39.00766666666667,
+              "text": "sound",
+              "textOffset": 134
+            },
+            {
+              "audioOffset": 13500000,
+              "index": 6,
+              "duration": 0.13749999999999574,
+              "endTime": 39.42016666666667,
+              "startTime": 39.28266666666667,
+              "text": "that",
+              "textOffset": 140
+            },
+            {
+              "audioOffset": 14875000,
+              "index": 7,
+              "duration": 0.17500000000000426,
+              "endTime": 39.59516666666667,
+              "startTime": 39.42016666666667,
+              "text": "is",
+              "textOffset": 145
+            },
+            {
+              "audioOffset": 16625000,
+              "index": 8,
+              "duration": 0.36249999999999716,
+              "endTime": 39.95766666666667,
+              "startTime": 39.59516666666667,
+              "text": "different",
+              "textOffset": 148
+            },
+            {
+              "audioOffset": 20250000,
+              "index": 9,
+              "duration": 0.13750000000000284,
+              "endTime": 40.09516666666667,
+              "startTime": 39.95766666666667,
+              "text": "than",
+              "textOffset": 158
+            },
+            {
+              "audioOffset": 21625000,
+              "index": 10,
+              "duration": 0.11249999999999716,
+              "endTime": 40.20766666666667,
+              "startTime": 40.09516666666667,
+              "text": "in",
+              "textOffset": 163
+            },
+            {
+              "audioOffset": 22750000,
+              "index": 11,
+              "duration": 0.6644999999999968,
+              "endTime": 40.872166666666665,
+              "startTime": 40.20766666666667,
+              "text": "English",
+              "textOffset": 166
+            }
+          ],
+          "valid": true
+        },
+        {
+          "duration": 1.001208333333338,
+          "endTime": 41.935875,
+          "startTime": 40.934666666666665,
+          "id": "Basic!F8",
+          "prosodyRate": 0.8,
+          "text": "señorita",
+          "voice": "es-MX-DaliaNeural",
+          "wordBoundaries": [
+            {
+              "audioOffset": 625000,
+              "index": 0,
+              "duration": 1.001208333333338,
+              "endTime": 41.935875,
+              "startTime": 40.934666666666665,
+              "text": "señorita",
+              "textOffset": 134
+            }
+          ],
+          "valid": true
+        }
+      ],
+      "Native": "señorita",
+      "Foreign": {
+        "comments": "señorita",
+        "text": ""
+      }
+    },
+    {
+      "category": "Response Exercise",
+      "duration": 7.092874999999999,
+      "endTime": 49.07875,
+      "startTime": 41.985875,
+      "type": "Bubble",
+      "transition": "",
+      "speech": [
+        {
+          "duration": 1.9263750000000002,
+          "endTime": 43.91225,
+          "startTime": 41.985875,
+          "id": "Basic!D9",
+          "prosodyRate": 1,
+          "text": "How do you say: Excuse me?",
+          "voice": "en-US-GuyNeural",
+          "wordBoundaries": [
+            {
+              "audioOffset": 500000,
+              "index": 0,
+              "duration": 0.20000000000000284,
+              "endTime": 42.185875,
+              "startTime": 41.985875,
+              "text": "How",
+              "textOffset": 112
+            },
+            {
+              "audioOffset": 2500000,
+              "index": 1,
+              "duration": 0.07500000000000284,
+              "endTime": 42.260875000000006,
+              "startTime": 42.185875,
+              "text": "do",
+              "textOffset": 116
+            },
+            {
+              "audioOffset": 3250000,
+              "index": 2,
+              "duration": 0.17499999999999716,
+              "endTime": 42.435875,
+              "startTime": 42.260875000000006,
+              "text": "you",
+              "textOffset": 119
+            },
+            {
+              "audioOffset": 5000000,
+              "index": 3,
+              "duration": 0.4624999999999986,
+              "endTime": 42.898375,
+              "startTime": 42.435875,
+              "text": "say",
+              "textOffset": 123
+            },
+            {
+              "audioOffset": 9625000,
+              "index": 4,
+              "duration": 0.5125000000000028,
+              "endTime": 43.410875000000004,
+              "startTime": 42.898375,
+              "text": "Excuse",
+              "textOffset": 128
+            },
+            {
+              "audioOffset": 14750000,
+              "index": 5,
+              "duration": 0.5013749999999959,
+              "endTime": 43.91225,
+              "startTime": 43.410875000000004,
+              "text": "me",
+              "textOffset": 135
+            }
+          ],
+          "valid": true
+        },
+        {
+          "duration": 1.00266666666667,
+          "endTime": 44.97741666666667,
+          "startTime": 43.97475,
+          "id": "Basic!D10",
+          "prosodyRate": 0.8,
+          "text": "disculpe",
+          "voice": "es-MX-DaliaNeural",
+          "wordBoundaries": [
+            {
+              "audioOffset": 625000,
+              "index": 0,
+              "duration": 1.00266666666667,
+              "endTime": 44.97741666666667,
+              "startTime": 43.97475,
+              "text": "disculpe",
+              "textOffset": 134
+            }
+          ],
+          "valid": true
+        },
+        {
+          "duration": 2.314083333333336,
+          "endTime": 47.3415,
+          "startTime": 45.02741666666667,
+          "id": "Basic!E9",
+          "prosodyRate": 1,
+          "text": "Now say: excuse me, miss",
+          "voice": "en-US-GuyNeural",
+          "wordBoundaries": [
+            {
+              "audioOffset": 500000,
+              "index": 0,
+              "duration": 0.3500000000000014,
+              "endTime": 45.37741666666667,
+              "startTime": 45.02741666666667,
+              "text": "Now",
+              "textOffset": 112
+            },
+            {
+              "audioOffset": 4000000,
+              "index": 1,
+              "duration": 0.5874999999999986,
+              "endTime": 45.96491666666667,
+              "startTime": 45.37741666666667,
+              "text": "say",
+              "textOffset": 116
+            },
+            {
+              "audioOffset": 9875000,
+              "index": 2,
+              "duration": 0.4750000000000014,
+              "endTime": 46.43991666666667,
+              "startTime": 45.96491666666667,
+              "text": "excuse",
+              "textOffset": 121
+            },
+            {
+              "audioOffset": 14625000,
+              "index": 3,
+              "duration": 0.23750000000000426,
+              "endTime": 46.67741666666667,
+              "startTime": 46.43991666666667,
+              "text": "me",
+              "textOffset": 128
+            },
+            {
+              "audioOffset": 17000000,
+              "index": 4,
+              "duration": 0.6640833333333305,
+              "endTime": 47.3415,
+              "startTime": 46.67741666666667,
+              "text": "miss",
+              "textOffset": 132
+            }
+          ],
+          "valid": true
+        },
+        {
+          "duration": 1.674749999999996,
+          "endTime": 49.07875,
+          "startTime": 47.404,
+          "id": "Basic!E10",
+          "prosodyRate": 0.8,
+          "text": "disculpe señorita",
+          "voice": "es-MX-DaliaNeural",
+          "wordBoundaries": [
+            {
+              "audioOffset": 625000,
+              "index": 0,
+              "duration": 0.6499999999999986,
+              "endTime": 48.054,
+              "startTime": 47.404,
+              "text": "disculpe",
+              "textOffset": 134
+            },
+            {
+              "audioOffset": 7125000,
+              "index": 1,
+              "duration": 1.0247499999999974,
+              "endTime": 49.07875,
+              "startTime": 48.054,
+              "text": "señorita",
+              "textOffset": 143
+            }
+          ],
+          "valid": true
+        }
+      ],
+      "": ""
+    },
+    {
+      "category": "Q&A",
+      "duration": 12.366500000000002,
+      "endTime": 61.49525,
+      "startTime": 49.12875,
+      "type": "Bubble",
+      "transition": "Slide Up",
+      "speech": [
+        {
+          "duration": 2.2632083333333384,
+          "endTime": 51.391958333333335,
+          "startTime": 49.12875,
+          "id": "Basic!D11",
+          "prosodyRate": 1,
+          "text": "Here is how you say: you understand",
+          "voice": "en-US-GuyNeural",
+          "wordBoundaries": [
+            {
+              "audioOffset": 500000,
+              "index": 0,
+              "duration": 0.25,
+              "endTime": 49.37875,
+              "startTime": 49.12875,
+              "text": "Here",
+              "textOffset": 112
+            },
+            {
+              "audioOffset": 3000000,
+              "index": 1,
+              "duration": 0.15000000000000568,
+              "endTime": 49.52875,
+              "startTime": 49.37875,
+              "text": "is",
+              "textOffset": 117
+            },
+            {
+              "audioOffset": 4500000,
+              "index": 2,
+              "duration": 0.17499999999999716,
+              "endTime": 49.70375,
+              "startTime": 49.52875,
+              "text": "how",
+              "textOffset": 120
+            },
+            {
+              "audioOffset": 6250000,
+              "index": 3,
+              "duration": 0.17499999999999716,
+              "endTime": 49.87875,
+              "startTime": 49.70375,
+              "text": "you",
+              "textOffset": 124
+            },
+            {
+              "audioOffset": 8000000,
+              "index": 4,
+              "duration": 0.4125000000000014,
+              "endTime": 50.29125,
+              "startTime": 49.87875,
+              "text": "say",
+              "textOffset": 128
+            },
+            {
+              "audioOffset": 12125000,
+              "index": 5,
+              "duration": 0.1875,
+              "endTime": 50.47875,
+              "startTime": 50.29125,
+              "text": "you",
+              "textOffset": 133
+            },
+            {
+              "audioOffset": 14000000,
+              "index": 6,
+              "duration": 0.913208333333337,
+              "endTime": 51.391958333333335,
+              "startTime": 50.47875,
+              "text": "understand",
+              "textOffset": 137
+            }
+          ],
+          "valid": true
+        },
+        {
+          "duration": 0.930374999999998,
+          "endTime": 52.38483333333333,
+          "startTime": 51.454458333333335,
+          "id": "Basic!D12",
+          "prosodyRate": 0.8,
+          "text": "entiende",
+          "voice": "es-MX-DaliaNeural",
+          "wordBoundaries": [
+            {
+              "audioOffset": 625000,
+              "index": 0,
+              "duration": 0.930374999999998,
+              "endTime": 52.38483333333333,
+              "startTime": 51.454458333333335,
+              "text": "entiende",
+              "textOffset": 134
+            }
+          ],
+          "valid": true
+        },
+        {
+          "duration": 2.7936666666666667,
+          "endTime": 55.2285,
+          "startTime": 52.43483333333333,
+          "id": "Basic!E11",
+          "prosodyRate": 1,
+          "text": "listen and repeat \"you understand\" part by part",
+          "voice": "en-US-GuyNeural",
+          "wordBoundaries": [
+            {
+              "audioOffset": 500000,
+              "index": 0,
+              "duration": 0.4125000000000014,
+              "endTime": 52.84733333333333,
+              "startTime": 52.43483333333333,
+              "text": "listen",
+              "textOffset": 112
+            },
+            {
+              "audioOffset": 4625000,
+              "index": 1,
+              "duration": 0.10000000000000142,
+              "endTime": 52.94733333333333,
+              "startTime": 52.84733333333333,
+              "text": "and",
+              "textOffset": 119
+            },
+            {
+              "audioOffset": 5625000,
+              "index": 2,
+              "duration": 0.42499999999999716,
+              "endTime": 53.37233333333333,
+              "startTime": 52.94733333333333,
+              "text": "repeat",
+              "textOffset": 123
+            },
+            {
+              "audioOffset": 9875000,
+              "index": 3,
+              "duration": 0.15000000000000568,
+              "endTime": 53.522333333333336,
+              "startTime": 53.37233333333333,
+              "text": "you",
+              "textOffset": 131
+            },
+            {
+              "audioOffset": 11375000,
+              "index": 4,
+              "duration": 0.5874999999999986,
+              "endTime": 54.109833333333334,
+              "startTime": 53.522333333333336,
+              "text": "understand",
+              "textOffset": 135
+            },
+            {
+              "audioOffset": 17250000,
+              "index": 5,
+              "duration": 0.2749999999999986,
+              "endTime": 54.38483333333333,
+              "startTime": 54.109833333333334,
+              "text": "part",
+              "textOffset": 147
+            },
+            {
+              "audioOffset": 20000000,
+              "index": 6,
+              "duration": 0.20000000000000284,
+              "endTime": 54.584833333333336,
+              "startTime": 54.38483333333333,
+              "text": "by",
+              "textOffset": 152
+            },
+            {
+              "audioOffset": 22000000,
+              "index": 7,
+              "duration": 0.6436666666666611,
+              "endTime": 55.2285,
+              "startTime": 54.584833333333336,
+              "text": "part",
+              "textOffset": 155
+            }
+          ],
+          "valid": true
+        },
+        {
+          "duration": 0.9303750000000051,
+          "endTime": 56.221375,
+          "startTime": 55.291,
+          "id": "Basic!E12",
+          "prosodyRate": 0.8,
+          "text": "entiende",
+          "voice": "es-MX-DaliaNeural",
+          "wordBoundaries": [
+            {
+              "audioOffset": 625000,
+              "index": 0,
+              "duration": 0.9303750000000051,
+              "endTime": 56.221375,
+              "startTime": 55.291,
+              "text": "entiende",
+              "textOffset": 134
+            }
+          ],
+          "valid": true
+        },
+        {
+          "duration": 4.183833333333332,
+          "endTime": 60.45520833333333,
+          "startTime": 56.271375,
+          "id": "Basic!F11",
+          "prosodyRate": 1,
+          "text": "now, using a question intonation, try to ask: do you understand?",
+          "voice": "en-US-GuyNeural",
+          "wordBoundaries": [
+            {
+              "audioOffset": 500000,
+              "index": 0,
+              "duration": 0.42500000000000426,
+              "endTime": 56.696375,
+              "startTime": 56.271375,
+              "text": "now",
+              "textOffset": 112
+            },
+            {
+              "audioOffset": 4750000,
+              "index": 1,
+              "duration": 0.36249999999999716,
+              "endTime": 57.058875,
+              "startTime": 56.696375,
+              "text": "using",
+              "textOffset": 117
+            },
+            {
+              "audioOffset": 8375000,
+              "index": 2,
+              "duration": 0.08749999999999858,
+              "endTime": 57.146375,
+              "startTime": 57.058875,
+              "text": "a",
+              "textOffset": 123
+            },
+            {
+              "audioOffset": 9250000,
+              "index": 3,
+              "duration": 0.4750000000000014,
+              "endTime": 57.621375,
+              "startTime": 57.146375,
+              "text": "question",
+              "textOffset": 125
+            },
+            {
+              "audioOffset": 14000000,
+              "index": 4,
+              "duration": 0.7625000000000028,
+              "endTime": 58.383875,
+              "startTime": 57.621375,
+              "text": "intonation",
+              "textOffset": 134
+            },
+            {
+              "audioOffset": 21625000,
+              "index": 5,
+              "duration": 0.25,
+              "endTime": 58.633875,
+              "startTime": 58.383875,
+              "text": "try",
+              "textOffset": 146
+            },
+            {
+              "audioOffset": 24125000,
+              "index": 6,
+              "duration": 0.16250000000000142,
+              "endTime": 58.796375000000005,
+              "startTime": 58.633875,
+              "text": "to",
+              "textOffset": 150
+            },
+            {
+              "audioOffset": 25750000,
+              "index": 7,
+              "duration": 0.4749999999999943,
+              "endTime": 59.271375,
+              "startTime": 58.796375000000005,
+              "text": "ask",
+              "textOffset": 153
+            },
+            {
+              "audioOffset": 30500000,
+              "index": 8,
+              "duration": 0.15000000000000568,
+              "endTime": 59.421375000000005,
+              "startTime": 59.271375,
+              "text": "do",
+              "textOffset": 158
+            },
+            {
+              "audioOffset": 32000000,
+              "index": 9,
+              "duration": 0.16249999999999432,
+              "endTime": 59.583875,
+              "startTime": 59.421375000000005,
+              "text": "you",
+              "textOffset": 161
+            },
+            {
+              "audioOffset": 33625000,
+              "index": 10,
+              "duration": 0.8713333333333324,
+              "endTime": 60.45520833333333,
+              "startTime": 59.583875,
+              "text": "understand",
+              "textOffset": 165
+            }
+          ],
+          "valid": true
+        },
+        {
+          "duration": 0.9775416666666672,
+          "endTime": 61.49525,
+          "startTime": 60.51770833333333,
+          "id": "Basic!F12",
+          "prosodyRate": 0.8,
+          "text": "entiende?",
+          "voice": "es-MX-DaliaNeural",
+          "wordBoundaries": [
+            {
+              "audioOffset": 625000,
+              "index": 0,
+              "duration": 0.9775416666666672,
+              "endTime": 61.49525,
+              "startTime": 60.51770833333333,
+              "text": "entiende",
+              "textOffset": 134
+            }
+          ],
+          "valid": true
+        }
+      ],
+      "Native": "entiende",
+      "Foreign": {
+        "comments": "entiende",
+        "text": ""
+      }
+    },
+    {
+      "category": "Q&A",
+      "duration": 2.617625000000004,
+      "endTime": 64.162875,
+      "startTime": 61.545249999999996,
+      "type": "Bubble",
+      "transition": "Slide Up",
+      "speech": [
+        {
+          "duration": 1.6496666666666684,
+          "endTime": 63.194916666666664,
+          "startTime": 61.545249999999996,
+          "id": "Basic!D13",
+          "prosodyRate": 1,
+          "text": "now, the word for English",
+          "voice": "en-US-GuyNeural",
+          "wordBoundaries": [
+            {
+              "audioOffset": 500000,
+              "index": 0,
+              "duration": 0.4375,
+              "endTime": 61.982749999999996,
+              "startTime": 61.545249999999996,
+              "text": "now",
+              "textOffset": 112
+            },
+            {
+              "audioOffset": 4875000,
+              "index": 1,
+              "duration": 0.11250000000000426,
+              "endTime": 62.09525,
+              "startTime": 61.982749999999996,
+              "text": "the",
+              "textOffset": 117
+            },
+            {
+              "audioOffset": 6000000,
+              "index": 2,
+              "duration": 0.23749999999999716,
+              "endTime": 62.33275,
+              "startTime": 62.09525,
+              "text": "word",
+              "textOffset": 121
+            },
+            {
+              "audioOffset": 8375000,
+              "index": 3,
+              "duration": 0.20000000000000284,
+              "endTime": 62.53275,
+              "startTime": 62.33275,
+              "text": "for",
+              "textOffset": 126
+            },
+            {
+              "audioOffset": 10375000,
+              "index": 4,
+              "duration": 0.6621666666666641,
+              "endTime": 63.194916666666664,
+              "startTime": 62.53275,
+              "text": "English",
+              "textOffset": 130
+            }
+          ],
+          "valid": true
+        },
+        {
+          "duration": 0.9054583333333355,
+          "endTime": 64.162875,
+          "startTime": 63.257416666666664,
+          "id": "Basic!D14",
+          "prosodyRate": 0.8,
+          "text": "ingles",
+          "voice": "es-MX-DaliaNeural",
+          "wordBoundaries": [
+            {
+              "audioOffset": 625000,
+              "index": 0,
+              "duration": 0.9054583333333355,
+              "endTime": 64.162875,
+              "startTime": 63.257416666666664,
+              "text": "ingles",
+              "textOffset": 134
+            }
+          ],
+          "valid": true
+        }
+      ],
+      "Native": "ingles",
+      "Foreign": {
+        "comments": "ingles",
+        "text": ""
+      }
+    },
+    {
+      "category": "Response Exercise",
+      "duration": 4.000208333333333,
+      "endTime": 68.21308333333333,
+      "startTime": 64.212875,
+      "type": "Bubble",
+      "transition": "",
+      "speech": [
+        {
+          "duration": 2.431958333333341,
+          "endTime": 66.64483333333334,
+          "startTime": 64.212875,
+          "id": "Basic!D15",
+          "prosodyRate": 1,
+          "text": "try to ask: do you understand english?",
+          "voice": "en-US-GuyNeural",
+          "wordBoundaries": [
+            {
+              "audioOffset": 500000,
+              "index": 0,
+              "duration": 0.25,
+              "endTime": 64.462875,
+              "startTime": 64.212875,
+              "text": "try",
+              "textOffset": 112
+            },
+            {
+              "audioOffset": 3000000,
+              "index": 1,
+              "duration": 0.17499999999999716,
+              "endTime": 64.637875,
+              "startTime": 64.462875,
+              "text": "to",
+              "textOffset": 116
+            },
+            {
+              "audioOffset": 4750000,
+              "index": 2,
+              "duration": 0.45000000000000284,
+              "endTime": 65.087875,
+              "startTime": 64.637875,
+              "text": "ask",
+              "textOffset": 119
+            },
+            {
+              "audioOffset": 9250000,
+              "index": 3,
+              "duration": 0.17499999999999716,
+              "endTime": 65.262875,
+              "startTime": 65.087875,
+              "text": "do",
+              "textOffset": 124
+            },
+            {
+              "audioOffset": 11000000,
+              "index": 4,
+              "duration": 0.15000000000000568,
+              "endTime": 65.412875,
+              "startTime": 65.262875,
+              "text": "you",
+              "textOffset": 127
+            },
+            {
+              "audioOffset": 12500000,
+              "index": 5,
+              "duration": 0.5499999999999972,
+              "endTime": 65.962875,
+              "startTime": 65.412875,
+              "text": "understand",
+              "textOffset": 131
+            },
+            {
+              "audioOffset": 18000000,
+              "index": 6,
+              "duration": 0.6819583333333412,
+              "endTime": 66.64483333333334,
+              "startTime": 65.962875,
+              "text": "english",
+              "textOffset": 142
+            }
+          ],
+          "valid": true
+        },
+        {
+          "duration": 1.505749999999992,
+          "endTime": 68.21308333333333,
+          "startTime": 66.70733333333334,
+          "id": "Basic!D16",
+          "prosodyRate": 0.8,
+          "text": "entiende ingles?",
+          "voice": "es-MX-DaliaNeural",
+          "wordBoundaries": [
+            {
+              "audioOffset": 625000,
+              "index": 0,
+              "duration": 0.6749999999999972,
+              "endTime": 67.38233333333334,
+              "startTime": 66.70733333333334,
+              "text": "entiende",
+              "textOffset": 134
+            },
+            {
+              "audioOffset": 7375000,
+              "index": 1,
+              "duration": 0.8307499999999948,
+              "endTime": 68.21308333333333,
+              "startTime": 67.38233333333334,
+              "text": "ingles",
+              "textOffset": 143
+            }
+          ],
+          "valid": true
+        }
+      ],
+      "": ""
+    }
+  ]
+}
