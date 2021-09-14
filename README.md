@@ -152,3 +152,5 @@ player.addEventListener("onBubbleEnter", function (event) {
 });
 ```
 Active cues example:
+
+<img src="https://raw.githubusercontent.com/tinzina/dsaudio-control/main/sample-activeCues.png">
