@@ -13,6 +13,7 @@ class DSAudioControl extends HTMLElement {
         this.attachShadow({ mode: 'open' });
         this.volumneBar = undefined;
         this.progressBar = undefined;
+        this.textTrack = undefined;
     }
 
     static get observedAttributes() {
@@ -217,8 +218,14 @@ class DSAudioControl extends HTMLElement {
 
         const addCue = (startTime, endTime, text, eventType, options) => {
             let cue = new VTTCue(startTime, endTime, text);
-            cue.onenter = () => _dispatchEvent(`on${eventType}Enter`, options);
-            cue.onexit = () => _dispatchEvent(`on${eventType}Exit`, options);
+            cue.onenter = () => {
+                options.activeCues = this.textTrack.activeCues;
+                _dispatchEvent(`on${eventType}Enter`, options);
+            }
+            cue.onexit = () =>{
+                options.activeCues = this.textTrack.activeCues;
+                _dispatchEvent(`on${eventType}Exit`, options);
+            }
             this.textTrack.addCue(cue);
         };
 

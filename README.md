@@ -129,17 +129,17 @@ Json file example:
 
 ## DSAudioControl VTTCue Events
 
-The DSAudioControl creates [VTTCue events](https://developer.mozilla.org/en-US/docs/Web/API/VTTCue) for all timestamped definitions.  Both onenter and onexit events are dispatched by the control.  
+The DSAudioControl creates [VTTCue events](https://developer.mozilla.org/en-US/docs/Web/API/VTTCue) for all timestamped definitions.  Both onenter and onexit events are dispatched by the control.
 
 Definition events with the values return:
- - onBubbleEnter: Bubble
- - onSpeakEnter: Bubble, Speak
- - onWordEnter: Bubble, Speak, Word
- - onSyllableEnter: Bubble, Speak, Word
- - onBubbleExit: Bubble
- - onSpeakExit: Bubble, Speak
- - onWordExit: Bubble, Speak, Word
- - onSyllableExit: Bubble, Speak, Word
+ - onBubbleEnter: Bubble, activeCues
+ - onSpeakEnter: Bubble, Speak, activeCues
+ - onWordEnter: Bubble, Speak, Word, activeCues
+ - onSyllableEnter: Bubble, Speak, Word, activeCues
+ - onBubbleExit: Bubble, activeCues
+ - onSpeakExit: Bubble, Speak, activeCues
+ - onWordExit: Bubble, Speak, Word, activeCues
+ - onSyllableExit: Bubble, Speak, Word, activeCues
 
 Listener example:
 
@@ -151,3 +151,4 @@ player.addEventListener("onBubbleEnter", function (event) {
     console.log(event.type, bubble.Native, bubble);
 });
 ```
+Active cues example:

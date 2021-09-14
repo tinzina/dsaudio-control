@@ -27,7 +27,7 @@
         function addVTTCueEventListeners(
             onBubbleEnter = true,
             onSpeakEnter = true,
-            onWordEnter = false,
+            onWordEnter = true,
             onSyllableEnter = false,
             onBubbleExit = false,
             onSpeakExit = false,
@@ -36,49 +36,52 @@
         ) {
             if (onBubbleEnter)
                 player.addEventListener("onBubbleEnter", function (event) {
-                    const { bubble } = event.detail;
+                    const { bubble, activeCues } = event.detail;                    
                     console.log(event.type, bubble.Native, bubble);
                 });
 
             if (onSpeakEnter)
                 player.addEventListener("onSpeakEnter", function (event) {
-                    const { bubble, speak } = event.detail;
+                    const { bubble, speak, activeCues } = event.detail;
                     console.log(event.type, speak.text, speak);
                 });
 
             if (onWordEnter)
                 player.addEventListener("onWordEnter", function (event) {
-                    const { bubble, speak, word } = event.detail;
+                    const { bubble, speak, word, activeCues } = event.detail;
                     console.log(event.type, word.text, word);
+                    console.log(`word options`, event.detail);
+                    console.log(activeCues);
+                    player.pause();
                 });
 
             if (onSyllableEnter)
                 player.addEventListener("onSyllableEnter", function (event) {
-                    const { bubble, speak, word } = event.detail;
+                    const { bubble, speak, word, activeCues } = event.detail;
                     console.log(event.type, word.text, word);
                 });
 
             if (onBubbleExit)
                 player.addEventListener("onBubbleExit", function (event) {
-                    const { bubble } = event.detail;
+                    const { bubble, activeCues } = event.detail;
                     console.log(event.type, bubble.Native, bubble);
                 });
 
             if (onSpeakExit)
                 player.addEventListener("onSpeakExit", function (event) {
-                    const { bubble, speak } = event.detail;
+                    const { bubble, speak, activeCues } = event.detail;
                     console.log(event.type, speak.text, speak);
                 });
 
             if (onWordExit)
                 player.addEventListener("onWordExit", function (event) {
-                    const { bubble, speak, word } = event.detail;
+                    const { bubble, speak, word, activeCues } = event.detail;
                     console.log(event.type, word.text, word);
                 });
 
             if (onSyllableExit)
                 player.addEventListener("onSyllableExit", function (event) {
-                    const { bubble, speak, word } = event.detail;
+                    const { bubble, speak, word, activeCues } = event.detail;
                     console.log(event.type, word.text, word);
                 });
         }
