@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DS Audio Control Demo</title>
+    <script src="./dsaudio-control.js"></script>
+</head>
+
+<body>
+    <dsaudio-control src="./files/audio.wav"></dsaudio-control>
+
+    <button id="playPauseButton">Play/Pause</button><br><br>
+    Volumne Bar:<br> <input type="range" id="volumneBar"><br>
+    Progress Bar: <br><input type="range" id="progressBar"><br>
+
+    <script>
+        const player = document.querySelector("dsaudio-control");
+        player.bindPlayPauseButton('#playPauseButton');
+        player.bindVolumneBar("#volumneBar");
+        player.bindProgressBar("#progressBar");
+
+        addVTTCueEventListeners();
+
+        function addVTTCueEventListeners(
+            onBubbleEnter = true,
+            onSpeakEnter = true,
+            onWordEnter = false,
+            onSyllableEnter = false,
+            onBubbleExit = false,
+            onSpeakExit = false,
+            onWordExit = false,
+            onSyllableExit = false
+        ) {
+            if (onBubbleEnter)
+                player.addEventListener("onBubbleEnter", function (event) {
+                    const { bubble } = event.detail;
+                    console.log(event.type, bubble.Native, bubble);
+                });
+
+            if (onSpeakEnter)
+                player.addEventListener("onSpeakEnter", function (event) {
+                    const { bubble, speak } = event.detail;
+                    console.log(event.type, speak.text, speak);
+                });
+
+            if (onWordEnter)
+                player.addEventListener("onWordEnter", function (event) {
+                    const { bubble, speak, word } = event.detail;
+                    console.log(event.type, word.text, word);
+                });
+
+            if (onSyllableEnter)
+                player.addEventListener("onSyllableEnter", function (event) {
+                    const { bubble, speak, word } = event.detail;
+                    console.log(event.type, word.text, word);
+                });
+
+            if (onBubbleExit)
+                player.addEventListener("onBubbleExit", function (event) {
+                    const { bubble } = event.detail;
+                    console.log(event.type, bubble.Native, bubble);
+                });
+
+            if (onSpeakExit)
+                player.addEventListener("onSpeakExit", function (event) {
+                    const { bubble, speak } = event.detail;
+                    console.log(event.type, speak.text, speak);
+                });
+
+            if (onWordExit)
+                player.addEventListener("onWordExit", function (event) {
+                    const { bubble, speak, word } = event.detail;
+                    console.log(event.type, word.text, word);
+                });
+
+            if (onSyllableExit)
+                player.addEventListener("onSyllableExit", function (event) {
+                    const { bubble, speak, word } = event.detail;
+                    console.log(event.type, word.text, word);
+                });
+        }
+
+    </script>
+</body>
+
+</html>
