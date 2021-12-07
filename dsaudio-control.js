@@ -146,7 +146,7 @@ class DSAudioControl extends HTMLElement {
     }
 
     set src(value) {
-        this.setAttribute("src", value);
+        this.setAttribute("src", this.randomVersion(value));
     }
 
     get defaultVolumne() {
@@ -193,11 +193,11 @@ class DSAudioControl extends HTMLElement {
     }
 
     async loadData() {
-        const src = this.getAttribute('src');
+        const src = this.getAttribute('src').split('?')[0];
         if (!src) return;
         const srcDataUrl = src.substring(0, src.length - 4) + ".json";
         const baseName = src.substring(0, src.length - 4).split(src.indexOf("/") > 0 ? '/' : '\\').pop();
-        this.data = await fetch(srcDataUrl).then(result => result.json());
+        this.data = await fetch(this.randomVersion(srcDataUrl)).then(result => result.json());
         if (!this.data) {
             console.warn("401 File not found", srcDataUrl);
             return;
@@ -245,6 +245,9 @@ class DSAudioControl extends HTMLElement {
         });
     }
 
+    randomVersion(fileName) {
+        return fileName + `?v=${Math.random()}`;
+    }
 }
 
 customElements.define('dsaudio-control', DSAudioControl);
